@@ -1,0 +1,77 @@
+body {
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+#relacao{
+	font-size: 20px;	
+}
+
+.row{
+	margin: 0;
+}
+
+.topo h1{
+	font-size: 50px;
+	margin-bottom: 50px;
+}
+
+.text-color{
+	text-shadow: 2px 2px 15px #0058AD;
+}
+.form-group{
+	margin-top: 20px;
+}
+
+.btn-next,
+.btn-next:hover,
+.btn-next:visited,
+.btn-next:focus{
+	color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 500;
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 5px 25px;
+    border: 1px solid white;
+}
+
+.btn-next.btn-next-green:hover{
+	background-color: #0058AD;
+	border-color: white;
+	color: white;
+}
+.btn-next.btn-next-green{
+	color: #0058AD;
+    border-color: #0058AD;
+}
+
+.form-control{
+	border: 2px solid #0058AD;
+	border-radius: 10px;
+}
+
+.row-func{
+	padding: 20px 0;
+}
+
+.style-input{
+	border: 2px solid #0058AD;
+	border-radius: 10px;
+	padding: 5px 0;
+	margin: 5px 0;
+}
+
+.btn-reset{
+	margin-bottom: 30px;
+	margin-top: 0;
+}
+
+.control-label{
+	text-align: left !important;
+}
+
+.padding-sli{
+	margin-bottom: 50px;	
+}
