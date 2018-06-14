@@ -1,2 +1,9 @@
 # S-Simplex
-Projeto de Desenvolvimento de um Website para método de programação linear Simplex
+Repositório da aplicação Simples de Simplex
+
+Nome        |RA
+---------------------------  |--------
+Daniel Miranda Barbosa  | 563171
+Gustavo Cardim  | 561797
+Pedro Carreira  | 560197
+Vandeir Carvalho  | 561711
