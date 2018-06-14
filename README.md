@@ -13,14 +13,13 @@ Bacharelado em Sistemas de Informação 5º Semestre
 
 
 ## Ferramentas
-
--JavaScript
--Jquery
--PHP
--CSS
--Bootstrap
--Azure para hospedagem
--GitHub para versionamento
+- JavaScript
+- Jquery
+- PHP
+- CSS
+- Bootstrap
+- Azure para hospedagem
+- GitHub para versionamento
 
 ## Notas de release a ser publicado 
 
