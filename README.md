@@ -63,7 +63,7 @@ Datas | Eventos
 14/05/2018  | Fim do desenvolvimento do cálculo de minimização
 14/05/2018  | Atualização do Readme
 14/05/2018  | Implementação o passo a passo ao cálculo de minimização
-17/05/2018  | Entrega da segunda onda de itens e das alterações visuais propostas pelo cliente000
+17/05/2018  | Entrega da segunda onda de itens e das alterações visuais propostas pelo cliente
 24/05/2018  | Conversa com o cliente para pegar o feedback parcial
 25/05/2018  | Correção no método de maximização (cálculo errado)
 26/05/2018  | Início do desenvolvimento da análise de sensibilidade
